@@ -1,0 +1,6 @@
+/.DS_Store
+/.venv
+/credentials.json
+/my-awesome-agent
+/token.json
+**/__pycache__/
